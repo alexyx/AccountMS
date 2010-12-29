@@ -1,0 +1,34 @@
+@CHARSET "UTF-8";
+
+/* shortcuts */
+#account-win-shortcut img {
+	width:48px;
+    height:48px;
+    background-image: url("account.png");
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='youtube.png', sizingMethod='scale');
+}
+#user-win-shortcut img {
+    width:48px;
+    height:48px;
+    background-image: url("user.png");
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='twitter.png', sizingMethod='scale');
+}
+#google-win-shortcut img {
+    width:48px;
+    height:48px;
+    background-image: url("google.png");
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='google.png', sizingMethod='scale');
+}
+#chatroom-win-shortcut img{
+	width:48px;
+    height:48px;
+    background-image: url("aim.png");
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='aim.png', sizingMethod='scale');
+}
+
+#webqq-win-shortcut img {
+    width:48px;
+    height:48px;
+    background-image: url("webqq.png");
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='webqq.png', sizingMethod='scale');
+}

@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+
+html, body {
+	background:#3d71b8 url(../images/wallpapers/desktop3.jpg) no-repeat left top;
+    font: normal 12px tahoma, arial, verdana, sans-serif;
+	margin: 0;
+	padding: 0;
+	border: 0 none;
+	overflow: hidden;
+	height: 100%;
+}

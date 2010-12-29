@@ -1,0 +1,30 @@
+@CHARSET "UTF-8";
+
+/*---------- ext-all.css ----------*/
+
+.x-btn button{
+	font-size: 12px;
+}
+
+.x-window-tl .x-window-header{
+	font-size: 12px;
+}
+
+.x-grid3-hd-row td{
+	font-size: 12px;
+}
+
+.x-menu-list-item{
+	font-size: 12px;
+}
+
+
+.x-toolbar td, .x-toolbar span, .x-toolbar input, .x-toolbar div, .x-toolbar select, .x-toolbar label{
+	font-size: 12px;
+}
+
+/** desktop.css */
+
+#x-shortcuts dt {
+	font-size: 12px;
+}
